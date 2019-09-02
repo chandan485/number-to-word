@@ -1,2 +1,3 @@
 # number-to-word
-convert number to words
+
+** Use NumberToWordServiceTest class to run the test cases
